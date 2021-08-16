@@ -1,0 +1,241 @@
+0
+.
+"1) The basics: getting users familiar with the software before the workshop / making sure they have it installed, downloaded the data, and tested the software to make sure it works (sometimes computers cannot handle stuff). I find that a lot of effort is lost by/on folks who did not spend time to get prepared. Surprisingly, some people do not have basic computer skills and if they spend a little extra time exploring the meaning of left mouse click vs the right mouse click in a particular software it can do wonders (before the workshop). Some system of communicating the progress they make with the presenters is great 2) Finding out more about the audience and preparing the content with the median (or higher) of the skill set this particular population has.  3) Defining the biological problem well and showing the whole process, sharing tips on sample prep that is critical for success, the acquisition of the data, how to spot and handle artifacts, how to think about reporting the data, using suitable statistics, writing methods and communicating the finding in a clear way. I find that there is a lot of great very fragmented information - that is great starting point, but I met a lot of people who are interested in image analysis but have cells that are blown apart and/or not properly imaged. 4) Access to recordings/files/scripts/notebooks - this is happening more naturally these days and it's a great trend "
+"1. NEUBIAS webinars: it covers a lot of tools, software and topics also providing the recordings and Q n A :)
+2. IMARIS Homeschool series: started with basics and went till the advanced features of Imaris for segmentation, tracking, animations, etc. 
+3. NEUBIAS conference: good place to meet fellow bio-image analysts and gain insights about how they solve problems at different institutes and organisations, learn about new upcoming tools, Open source software lounge and satellite discussions were the best"
+"A MATLAB workshop on cell segmentation because it was multi-day, very guided, and exactly at the level/speed I needed it to be. Sometimes image analysis tutorials can be either way too dumbed down, so it feels like a waste of time to get to the nugget of info I need, or if they're more programming based they're too fast."
+A slow basic start 
+AQLM + BigDIPA- explanations starting from first principles
+AQLM was good.
+"All Neubias activities like courses and conferences, especially the beginners course. This really got me started with Fiji."
+"Amasi' FLIM workshop @UVA, LFD Workshop @ UCI, Workshop by Claire Brown @McGill"
+"An Imaris course, all neubias webinars."
+Arivis & KNIME workshops - was quite beneficial to work with own data
+"At Woods Hole MA, the Computational Image Analysis (CIAN) workshop was phenomenal (by Gaudenz Danuser, Steve Altschuer, Lani Wu, Kholoud Jaqaman). But it was in matlab (python is the future of image analysis!!). During COVID, the NEUBIAS academy videos have been phenomenal. Since March our lab has been doing weekly self-organized tutorials going through the scikit-image tutorials. We would have REALLY benefitted from a series of jupyter notebook self-workshop type tutorials and youtube videos dedicated to bioimage analysis in python (scikit image but for biological e.g. not RGB images). "
+BioImage Informatics 2019
+BioImage Informatics 2019 at the Allen Institute. It was a great exposure to see what people have developed in machine learning to analyze images. 
+Bioimaging training @CRICK
+"Both when @ trade shows selling commercial sw, and when presenting on using imagej/FIJI, I enjoyed the challenge of users showing up with data and asking if I could figure out how to analyze it. This visceral practice developed a gut feel and some simple guidelines for analyzing images. "
+CSH Quantitative Imaging Course
+"CSHL: Quantitative Imaging , UTSW: Matlab nanocourse for scientific data exploration"
+"Cameron Nowell from Monash does a phenomenal FIJI/ImageJ 2 day workshop. He has written a step by step manual and goes through everything step by step.  So you see it happening, can follow along with the hard copy, and be doing it yourself all at the same time!"
+Canadian Light Microscopy Course
+Cell Profiler Workshop
+Cell Profiler/Cell Analyst workshop.  Got me quickly using both software packages
+Cell profiler workshop
+CellProfiler Intro workshop. Hands on walk through
+CellProfiler and CellProfiler Analyst
+CellProfiler workshop on 3 days. It really gave the what I needed to start to use it.
+"CellProfiler workshops and office hours at the Broad Institute. Getting past the jargon and vast array of options in CellProfiler helped me to understand not just how the software works but how to approach problems in image analysis, what computers are generally ""good"" and ""bad"" at, and how to tackle these issues. This also helped me set up experiments more carefully for better analysis."
+Cellprofiler Workshop at the Broad was well done; working through a data set made everything more clear. Cell Analyst could be dropped from the workshop though
+Clarity and simplicity in the workflow.
+"Cold Spring Harbor course, specific to my field of interest."
+"Combination of hands-on and lecture format. More focus on ""here's how to solve this kind of analysis problem"", not ""click these buttons to make it go"""
+Digital Image Analysis with ImageJ workshop at Harvard
+During my genetics lab we were also taught to use ImageJ to analyze our data and I found it really helpful.
+"EMBL Deep Learning 2020: great content, great instructors, very interesting talks."
+EMBL software carpentry; really good introduction to image anslysis and git(hub) by great teachers
+EMBO image analysis course
+"EMBO workshop on microscopy, because many different microscopy techniques were presented"
+EMBO workshops
+ESRIC workshop - mixture of in depth theory and application. ImageJ analysis videos from robert hasse because of clear Focus and ability to use in own time.
+EdX e-learning course from EPFL on bioimage analysis
+"Every Neubias course, conference, meeting. EdX courses on image analysis "
+Explanation of how image analysis can work for a particular subject
+FRET workshop Virginia University. 
+"Fiji course from Janelia, AQLM course ,"
+Focus on Microscopy (FOM)
+"Hands on practice with the software tool, with the opportunity to ask for help at any stage directly."
+"Hands on with real samples and expert tips, tricks and pitfalls"
+Hands-on experience
+Hands-on experience (opportunities to try out what is described / taught.)
+"Hands-on learning of new software, testing my own images, and the availability of an instructor should a question come up"
+High Content Analysis conferences
+Holly Aaron's AIM workshop - good mix of bioscience and microscopy/analytical methods
+"How to use imageJ, help me to know how to use ""hidden"" functions in  ImageJ"
+"I attended a 2 day workshop organized by Zeiss, it helped a lot to understand little quirks in imaging and then whole another day was focused Zen programs that used Machine learning for image analysis. They were esuper cool but ofcourse paid softwares which we don't yet have access to"
+"I did a workshop in Physiology at MBL where we wrote very basic segmentation and tracking code and that really helped me understand exactly what all the fancier segmentation and tracking software was doing.  Even though I don't use code that simple in my actual analysis, I think that the core understanding I got from doing that really helps me use fancier (eg CellProfiler, FIJI) software because I really know the base of what it's doing."
+I enjoyed the Python/Jupyter NEUBIAS online webinar
+I have learnt the basics of image analysis (step by step)
+"I have only attended a few webinars, but since these are often geared towards people with diverse backgrounds in programming, I have gotten lost when it comes to implementation of the programming aspects and then can't catch up. For me, I would prefer something that has more extensive explanation that I can pause, like a video tutorial or step by step protocol. With live webinars, time starts to run out and steps get rushed."
+I really like Robert Haase's YouTube series (https://www.youtube.com/watch?v=q6-NsNvu81w)
+I think being more interactive / have case studies are quite helpful.
+"I took the AQLM course at Woods Hole in 2015. We had several sections on image analysis techniques/practices using programs like Fiji/ImageJ, which made them much more approachable."
+I went to a workshop at my University on macros in ImageJ. It was very helpful because I was then able to use it in my research
+"I've been to a CellProfiler workshop at the Broad. This was very helpful because someone was there to help in case I ran into trouble.
+I have also done the CellProfiler 3D segmentation tutorial on GitHub, which I found helpful."
+"I2K, NEUBIAS, OME-coomunity meeting. In all cases: Networking, news, practical uses with examples , sharing code and knowledge."
+ImageJ conference at UW-Madison
+"ImageJ conference, NeuBIAS. Exchange between Bioimage analysts, software developers and biologist "
+ImageJ meetings
+ImageJ with F. Cordelieres
+Imaris (Bitplane) has webinars that are somewhat helpful. I have attended a few but sometimes lose interest when an experiment/data set that does not apply to my data is discussed at length.
+Imaris - focused one-on-one online tutorial on specific application
+Imaris webinars 
+Imaris workshop and Fluoresence Dynamics  in Gratton Lab;  both gave excellent background information and instruction while allowing/supporting your work on a specific problem during the workshop
+"Imaris workshops, Fiji workshops "
+In a workshop we were given free copies of a software that introduced me to Octopus
+"In conferences it is particularly useful to see what approaches different people had to solve the same issue, and be able to discuss a concerted way forward."
+"In-house workshops at my workplace, The Francis Crick Institute, have been quite helpful due to the step-by-step approach and clear, in-depth teaching in small seminar groups."
+"Interactive session, i.e work though the image analysis along with the instructor, video recordings  of the tutorial session to go back later if I forget a step"
+Intro ImageJ workshops - clearly presented tutorials shown on a projector screen in real time that new users can follow along to.
+Introduction of new techniques 
+Janelia's Advanced Imaging center's UCSC image analyis multi day workshop. Great step by step explanations of how to use tools and what is important to understand about them. Also explained really well what kind of tools you could use with what data and the science behind it
+"John Russ's class, but many years ago; Nikon Elements training"
+Learning useful tools with examples and clear explanations.
+Leica run image analysis with LASX. was helpful as it went over theory as well software specific tools
+Leong Chew's Fiji - well explained 1-2 days
+Light Microscopy Australia - It was an end product type of conference.
+MCX (Monte-Carlo eXtreme) is very thorough. The FRET workshop at UVA is also excellent
+"MICCAI, showing the cutting edge tools, how to use tensorflow and keras"
+MIFOBIO - hands-on sessions
+Macro writing for ImageJ - one-to-one help was very beneficial
+"Microscopy & Microanalysis (M&M) short courses: they provide in-depth material and the opportunity to learn from experts and thought leaders; in addition, they are held just before the conference, so I have the opportunity to follow up with contacts of interest during the meeting. "
+"Much slower mouse clicking but must graphically and verbally show what steps are being done and why. Also macro
+Recording ability. "
+Multi-day Fiji workshop that covered multiple basics of analysis along with a tour of the tools available.
+NEUBIAS
+NEUBIAS
+NEUBIAS
+NEUBIAS - community biased toward facility staff made the discussions focused on detailed and reproducible solutions rather than vague explanations partnered with biology jargon
+NEUBIAS - conference and tutorials were useful since they discussed quite all the topics in bioimage analysis
+NEUBIAS - v high density of expertise and pioneers
+NEUBIAS Academy webinars
+"NEUBIAS FIJI online course. Easy to follow and include useful backgrounds regarding imaging analysis in FIJI. For example, how does a filter work, how to segment your image well...etc."
+"NEUBIAS Summer school, NEUBIAS @Home Academy - I learned almost everything I know about Image Analysis there. 
+What makes them so great is that they make everybody feel welcome and valued regardless of their level. I always felt encouraged to ask questions and make mistakes. I have experienced the NEUBIAS community as a very open and inclusive which is great for beginners!"
+NEUBIAS fiji macros. Very accessible and very useful
+NEUBIAS meetings and webinars
+NEUBIAS meetings. The community building aspect was the most beneficial.
+"NEUBIAS online webinars have been very helpful, good slides/datasets to analyse at home, good Q and A on image.sc. Helpful follow-up sessions"
+NEUBIAS scikit-image and napari remote workshops: I enjoyed having a video recording and all tutorial materials in jupyter notebooks so I could work through them with labmates at our own pace.
+"NEUBIAS training course, it is a good kickoff"
+NEUBIAS training school
+NEUBIAS training school - knowledgeable trainers and hands-on sessions along with assisted free time to develop solutions to your own research
+"NEUBIAS training schools as very intensive and focused, NEUBIAS webinars during confinment as available via youtube and focused on single topics"
+NEUBIAS webinar series has been helpful
+NEUBIAS webinars
+NEUBIAS webinars cover a variety of topics and have been helpful in both learning the covered materials and in identifying areas that I need to learn
+NEUBIAS webinars were really helpful to understand the basics of python and its use in image analysis 
+NEUBIAS workshop on QuPath was excellent for expertise and clarity of the speaker and examples presented.
+NEUBIAS workshops. The pace and level of learning was excellent
+"NEUBIAS, NEUBIAS Academy"
+"NEUBIAS, fantastic for networking"
+"NEUBIAS: high level teaching, great networking"
+"NEUBIAS: theory on the first part of the morning/afternoon, then practising > it is a very interesting and efficient way for learning. It also gave me the opportunity to encounter new kinds of problems with new kinds of images."
+Neubias
+Neubias
+Neubias Academy has been a great resource with easily to follow steps demonstrated for specific problems. Same with QuPath workshops handled by LJI in San Diego.
+"Neubias Academy webinar, great to have the last updates on image analysis tools"
+"Neubias Seminars, they were a good mix of basic information and examples"
+"Neubias Training Schools, the IAFIG Python course - getting away for a week-long workshop to focus is particularly useful for facility staff who can struggle to dedicate time to new learning. "
+Neubias conference and workshop
+Neubias conference/ workshop for facility staff 
+Neubias courses and webinars. Computer Optimized Microscopy course
+"Neubias courses, Robert Haase lectures on Youtube"
+"Neubias is fantastic in terms of learning new things, networking in bioimage analysis community. Cvpr is great for general comp vision stuff, though a bit overwhelming. Isbi is good too."
+"Neubias school, imaris workshop, Arivis tutorial, peterbankhead tutorial, Robert haase tutorial"
+Neubias webinars
+"Neubias workshop: small groups and working at a level that fitted the groups knowledge well, with friendly, knowledgable trainers."
+"Neubias, So much hands on time in a week also like that you are forced to come with a project as this gives you a tangible purpose while learning."
+Neubias. Great speakers and lot os time for interaction
+"Neubias. Training + conference, mix of biologists and bio-image analysts, not too big so easy interactions with people"
+No
+No
+No
+No
+No
+No
+No
+No
+No yet
+None
+Not really. Typically too basic or too narrowly focused
+Not yet
+Not yet
+"Nubias youtube channel. 
+
+https://www.youtube.com/c/haesleinhuepf  "
+"OMBIS, and Seeing is Believing. OMIBS covered a wide topic of different imaging modalities which I knew in theory, but never actually practiced or focused on. Seeing is Believing helped show some cutting edge techniques and uses for advanced imaging approaches."
+OME Community Meeting; developers are very friendly and able/trained to listening g to experimental scientists needs and concerns without making people feel embarrassed for asking questions. Huge emphasis on usability.
+OMERO workshop
+"OMIBS at MBL, it's mostly on microscopy fundamentals, but covers some image analysis"
+Often a question of current needs of facility users
+One on FIJI that went into common pitfalls that produce artifacts
+One to one sessions with facility image analysis experets
+"Online CellProfiler and CPA intro workshops and NEUBIAS workshops (e.g. MorpholibJ, QuPath, etc) were useful because they 1) focused on a particular tool using realistic examples; 2) illustrated usage to reduce ""activation energy""; 3) provided sample data so that I could follow along or work through the examples later; 4) were presented by experienced bioimage analysts."
+"Open source freely available workshops available online are great because they are accessible, free, and the time commitment is flexible"
+Personalised scope of workshop. Not just a sales pitch
+Pete Bankhead's gitbook on analysing fluorescence images was very helpful. Anything that starts from real basics & doesn't assume prior knowledge.
+Project-based tutorials
+QuPath workshops on YouTube - the workshop materials were provided for download and I could follow along with the YouTube tutorial
+Quantitative Bioimaging was a nice blend of technical talks with some applications to justify developments.
+"Recent series of NEUBIAS webinars - easily and conveniently accessible, good introduction to various tools/processes that enabled assessment to see whether they are applicable and worth pursuing further."
+"Robert Haase FIJI tutorials (on Youtube channel, so helpfull to learn coding in FIJI !! This is my reference now); NEUBIAS workshops (really nice format ! And good to talk with experts); Imaris Homeschool workshops (nice but not really ""live"", few questions answered at the end); Visiopharm webinars"
+Robert Haase Youtube-- simple explanations
+Robert Haase's online videos w/ exercises. The exercises are what make the knowledge stick.
+Robert Hasse Fiji tutorials were excellent 
+"SLAS course from Marc Bickle + team-- KNIME for HCS analysis; course was just walking through a dataset/analysis in an already-constructed pipeline, which all attendees took away for future reference.  An absolute key for me in setting up a new analysis is walking through /adapting  validated/published/best practices analyses from others...then a session with live presenter/instructor adds value for one-on-one answers to questions (virtual fine!)."
+SPIE topical & plenary talk recordings on YouTube
+Series of webminars  targeting Bioimage Analysis Technology
+Sharing of practical experience with algorithms.
+"Slow-paced, addres theory as well as practical issue, recorded on youtube, cheatsheets and materials on github"
+Stardist webinar
+Stereological Image analysis - beneficial due to design based on your particular problem
+Structured courses and good material
+The Cellprofiler workshop that I attended at UCSF in 2019 was very useful.
+The ImageJ conference om Luxembourg
+The ImageJ conferences formerly taking place. 
+"The NEUBIAS lockdown series on youtube. Learning wealth of information, different options available for analyzing data and more importantly learning macro on FIJI"
+The Neubias and iBiology tutuorials that recently have been coming out are very practical and helpful.
+"The best workshops I attended used ""ugly"" data rather than trivial data"
+"The data hackathon was useful, but too short. I have never done any deep learning on images, and that's mostly what it was. At least one week long tutorial for talented people with little experience in both automating image analysis for phenotypic, and training neural networks would be amazing."
+"The fact that they clearly explained a lot of concepts I encountered when I was starting to work with image analysis, i.e. bit-depth, color channels, etc."
+The hands on module helped a lot
+The handsome tutorial is very beneficial and topics covering a wide range.
+The networking aspect is generally underrated. NEUBIAS did an increadible job
+The neubias stardist webinar was very useful. 
+The old UBC course run by Jim Pawley
+The ones organised by NEUBIAS recently
+"They used examples and tuned the method live, alongside explanations for their choices."
+Two day Imaris workshop.  Great setup of walking through all the different modules and providing PPT and materials afterward.  
+UCSF Deep Learning for Coders
+Visiting the AIC at Janelia (not sure that counts). It was helpful to be pressed for time and surrounded by experts who demanded the most out of my time there and our work together. I also came away with new tips on sample prep.
+Working hands on to create a real analysis workflow with sssistance From / conversation with more experienced computational folks has been most helpful. 
+"Workshop on ImageJ, it was several days and I learned a lot from that. I also attended recently workshop on macro, colocalization methods on ImageJ. It was very useful because there were examples from my field (cell biology)."
+Yes from Nikon imaging centre 
+"Yes the Harvard Tissue Clearing Workshop 2020. Hands on, to the point, practical examples and applications, and great speakers."
+"Yes, I used to participate in an image analysis workshop for FreeSurfer MRI image analysis software. What I loved was that it was a mix of lecture, hands on tutorial and then break out for specific problems. So you could learn the theory, try on a pre-defined dataset, but then ask about problems specific to your data too. "
+"Yes, Quantitative Imaging at Cold Spring Harbor Laboratories, beneficial because it was long enough to have time to really dedicate to learning techniques, practicing them, and getting feedback in real time while not busy thinking about other things. Excellent combination of lecture and lab time"
+"Yes, they gave me simpler solutions than the ones I knew."
+"Yes, when they highlight the most useful tools in a given program and where to find help."
+Yes.  Detailed workflow and useful tips/resources/ and hands-on opportunities.
+Yes. Demonstrations 
+Yes. In the case of workshops and tutorials I think that they were particularly helpful mostly because of the demonstration of solutions to some sort of image analysis tasks and the opportunity to have hands-on training.
+"Yes. NEUBIAS training schools (for the opportunity to learn about tools, methods and best practices from the creators or experts, including hands-on work) and I2K conference (for cutting-edge developments and applications)."
+Yes. Networking events among participants was beneficial.
+Yes. Simple explanation of the topic made it highly beneficial
+Yes. Very useful and easy to follow. 
+cell profiler
+demonstrations and exercise sessions
+hands on practice with my own data (ICY workshop at CSHL)
+hands on training
+hands-on training with own samples
+in-depth workshops about a particular tool or application
+intensity - usually there was a lot to learn in very short time
+introduction to macro coding with fiji
+live workshop and one to one hours
+looking at different problems with good documented notebooks and example data that I can review at a later time. 
+matlab image analysis toolbox workshop at Harvard
+neubias
+neubias academy
+no
+no
+no
+recently ones managed by Neubias
+specific software training by companies
+"super-resolution workshops (various), imageJ workshops (various) at conferences - shared expertise, good discussions and good pointers made them beneficial"
+"the EdX course on Image Analysis for Life Sciences was a nice intro, but too basic."
+"theory+practice, PDFs, application to my own tasks"
+"yes, hands-on workshop which was translatable to own work"

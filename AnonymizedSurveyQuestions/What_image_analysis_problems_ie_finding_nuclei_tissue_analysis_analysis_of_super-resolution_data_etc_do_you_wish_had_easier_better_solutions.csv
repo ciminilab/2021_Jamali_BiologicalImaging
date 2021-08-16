@@ -1,0 +1,376 @@
+0
+" 2d Nuclei detection, particle analysis"
+" Single Particle tracking from low SNR images, in 3D; Lack of standardized ""good practices"" for existing well solved image analysis methods. "
+"""Joint spatial deconvolution and spectral unmixing"" (see Hoppe 2008 Biophys J ""3DFSR"", add GPUs)"
+#D analysis and analysis of super-resolution data
+(trainable) cell classification in whole-slide images!
+-
+.
+"1) image registration from serial sections, cyclic staining; 2) segmentation in complex scenes (e.g. tissues) and any segmentation in 3D"
+"1. user trained object recognition (machine learning, AI) 2. automated recognition of endosomes without requirement for setting crucial parameters manually/arbitrarily"
+"1.tissue analysis. 2.multiplexed IHC, IF and IMC of  tissue sections"
+3 dimensional segmentation and object identification
+3D OCT data analysis
+3D analysis of heterogeneous electron microscopy particle datasets
+"3D analysis of lightsheet data, overalpping cells, cell phenotype analysis in 3D"
+"3D analysis of tissue, organoids"
+"3D brightfield/fluorescent imaging - thresholding in 3D or 3D re-construction from brightfield or fluroescent images. Brightfield stack projections. Spheroid/organoid characterization (e.g. proportion of luminal spheroids, number of crypts per organoid...)"
+"3D cell cultures, mixed cell culture models, higher-order structure of cultures"
+"3D cell membrane segmentation, 3D nuclear tracking "
+3D cell morphometrics
+"3D cell segmentation, analysis of 3D (+/- time)"
+"3D correlation of multiple imaging modes, 3D visualization of volumes, automatic segmentation"
+"3D correlation, segmentation"
+3D image analysis with spatial distribution and stereological analysis
+3D interaction of cell populations
+3D localization
+3D neuron segmentation
+"3D neuronal reconstruction; reconstruction that doesn't treat soma as a point; synapse segmentation; all of this with real specimens that can have poor S:N; also, workflow for super-res can be clunky"
+"3D nuclei segmentation, 3D objects tracking, annotation, colocalization, deconvolution, 3D maxima, 3D ROI"
+3D object segmentation
+"3D rendering and volumetric analyses, automated quantification of colocalization in 3D"
+"3D rendering; particle tracking with complete metadata provenance tracing, quality control of identification and tracking"
+3D segmentation 
+3D segmentation & analysis (non-commercial!)
+3D segmentation in EM
+"3D segmentation of all types, Object parenting, Adaptable thresholding in time"
+3D segmentation of objects such as nuclei
+"3D segmentation, 3D time alignment, 3D quantification"
+"3D segmentation, analysis of volumes & surfaces, characterizing the distribution of fluorescence signals (homogenous, fiber-like, spots, ...)"
+"3D segmentation, separating touching objects, cell lineages"
+"3D segmentation/3D tracing, Non-uniform cell/structure segmentation"
+3D tracking is probably the one where what exists is furthest from our needs
+"3D tracking, AI segmentation of large images and data sets in 3D"
+"3D volume trends, organelle volume trends, fluorophore interactions over time, ie activations, kiss and touch etc."
+"3d feature extraction, 3d modeling, surface processing"
+3d segentation
+3d segmation
+"3d shape analysis, multiview fusion"
+4D object tracking
+"4D registration, tracking and visualisation"
+"Accurate nuclear detection and tracking in realistically crowded low s/n environments, 3d/4d semi-automated segmentation"
+Aligning moving/rotating cells over time to a common axis to perform repeated measurements
+All
+All of them. Anything published is not generic and generallyuseless. 
+All the other problems...
+"Analyses of noisey or low-quality data from non-standard or non-integrated systems (e.g. going between proprietary and open-source formats), general denoising, and identifying complex features or dynamics such as protrusion rate, pseudopod or protrusive area growth rate."
+"Analysis of cells in 3D structures over time, cell morphology or fluorescence in specific cells over time"
+Analysis of image with low contrast or SNR 
+Analysis of spatial data between objects
+"Analysis of spatial organization of structures like telomeres, segmenting super thin structures like the nuclear envelope"
+Analysis of super resolution data
+Analysis of volumetric calcium imaging datasets
+Analyzing and tracking curved/crosslinked fiber structures (e.g. cells pulling on collagen fibers within a 3D gel)
+"Anything having to do with bacteria (small, fiddly, not very bright). Dealing with large data sets. "
+Automated cell and nucleus segmentation for a large FOV. Automated detection of 1000s of foci/spots inside a nucleus for a multi-round imaging experiments. 
+Automated landmarking and curve finding
+Automated or semi-automated through time. Multiview reconstruction and deconvolution 
+Automated or semi-automated through time. Multiview reconstruction and deconvolution 
+Automatic segmentation of highly overlapping nuclei
+Automatic tracing of fluorescent objects 
+Automatically identifying objects in 3D images.
+Automation of data analysis 
+Automation of organelle quantification in 3D; organelle tracking over time
+"Automation, de-noising , 3D tracking of vasculature or axons "
+Automatize analysis of image
+Better rendering of touching objects/ those not able to be resolved 
+Better tools for different organisms than mammalian cells/yeast; e.g. protozoa
+Big data
+Big-data from LSM
+Brightfield
+Brightfield/DIC/phase-contrast segmentation
+Cell membrane segmentation and quantification
+Cell morphology branching volume
+Cell segmentation 
+"Cell tracking from live data, nearest neighbour analysis (ie: population scale)"
+Cell vs. cytoplasm segmentation and tracking in time
+Cell/nuclei detection on brightfield microscopy
+Cellular segmentation with functional dyes. Multimodal registration. 
+Co-localization of 5+ markers across multiple sections.
+Co-localization of histological/fluorescent markers in cells and tissues
+Colocalisation analysis
+Colocalisation analysis of clusters and filaments; deconvolution
+Colocalization
+Colocalization
+Colocalization
+Colocalization pipelines 
+"Combinations problems, e.g. neuronal connectivity and protein localization simultaneously"
+"Confluent cell segmentation, tracking of particle in complex/overcrowded situations "
+Constant Manual interaction is 1980’s
+Currently segmentation of cytoplasm/cells without a nuclear stain (non-circular shapes)
+Cytoplasm detection
+Cytoplasmic tracing. Image tiling. Image alignment
+"Cytoskeletal elements, 3D segmentation of nuclei"
+"DIC feature recognition is tough. Automated quantification of actin cytoskeletal features. Semiautomated boundary analysis (tortuosity, etc.)."
+Dealing with overlapping cells in 2D culture
+"Dealing with really large data sets, automated segmenting"
+Deconvolution
+"Deconvolution, Curve fitting, notably to error function"
+"Deconvolution, colocalization (particularly at super res),"
+"Defining cell boundaries in a crowded imaging field (so, in actual tissue as opposed to sparse cells on a coverslip)"
+Defining neurite when plating density is high
+Definitely finding nuclei in 3D space; recognizing cell boundaries in a tissue stained with a membrane dye; deep learning approaches to recognize specific cells/cellular features
+Dendritic spine segmentation
+EM data analysis in general
+Edge/line tracking
+"FLI, especially in turbid media. MPM in vivo requires motion tracking or can't be used for redox analysis, so that'd be excellent too. There are a LOT of things to put here"
+"FLIM, PLIM, especially 3D & deconvolution"
+"FRAP, photostability measuring, easier FRET analysis"
+Filopodia detection and quantification
+"Finding cell boundaries, distinguishing cell versus background,flexible automated analysis of multiple images "
+"Finding cells with more complex morphology in 2D and 3D immunofluorescence, scaling up tissue analysis for WSI and with large number of variable slides (>20), more user-friendly tools for image analysis in 3D"
+"Finding cells, cell compartments especially in tissue sections"
+Finding nuclei in IF imagine
+Finding nuclei; auto-fill broken cell boundaries (e.g. ZO-1)
+"Fluorescence intensity measure, segmentation, and of dendritic spines or fine structures like that. Also, anything with neurons is mostly done manually because the tools are time consuming and sometimes not friendly"
+"For single-molecule localization microscopy, the most popular module is still ThunderSTORM in FIJI. However, there are a few improvements that can still be made there. Such as, combining spots from the same blinking molecule before fitting, clustering analysis, inhomogenous/uneven background correction,"
+High-density filament analysis (tracing spaghetti over time)
+How to process segmented images to extract information about tissue formation
+"I have been unable to find a good tool for analysing DNA fibers. These a dual fluorescently labelled DNA fibers. With no tool it’s a manual process of drawing lines using ImageJ & using the length for measurement. Not a good system at all. Bias, time consuming, lack of accuracy."
+"I think that most of my problems are because I don't know how to use the software (FIJI), but I don't know how to define nuclei and then measure immunofluorescence in cell cytoplasm"
+I wish that analysing the parameters of microvascular networks be easier
+"I wish there was one single forum where the answers are collected. Recently, I wanted to read up on colocalization. There are so many articles and blogs out there, it was difficult to get what is right and what is not correct to incorporate in colocalization analysis. Also, measuring organelles size/no in the cell work sometimes, but not always. It would be good to have a faithful dos and fonts page."
+"Identification of specific features, including by segmentation methods - these often have to be bespoke for particular samples"
+Identifying cellular organelles with various intensities and shapes over a time course.
+"Identifying organelles in a variety of cells, localising dense emitters, automated procedures for image analysis"
+"Identifying rod-shaped bacteria, particularly ones that are overlapping"
+Image cytometry
+"Image registration, non-circular cell segmentation (e.g. astrocytes), synapse detection"
+"Imaging organelles, imaging individual small cells such as platelets"
+"Instance segmentation, tracking"
+Large lightsheet data handling and analysis
+Libtiff is too slow at writing multiple (>1000) images
+Logic gating al la flow cytometry
+Membrane segmentations (in live tissue)
+"Most of the tools are for mammalian cells, not for other organisms like protozoa, bacteria"
+Multi color registration and tracking
+Non adherent cell movement as a result of plate movement to different wells during timelapse
+Nuclear envelope finding and analysis
+Nuclei segmentation on tissue
+Object detection from bright field images
+"Object separation and segmentation algorithms, subcellular object measurements, colcalization analysis, FRET analysis. "
+Organelle and single molecule tracking
+Outlining and associating foci in filamentous bacteria/cells that grow as a syncytium or quantitation DIC + Fluorescent images of bacteria
+Particles tracking
+Polymorphic organelles that change over time like mitochondria or peroxisomes or lysosomes 
+Quantification of fluorescence
+"Quantitative analysis of images generated by CMOS cameras, 3D segmentation, 3D intensity quantification, 4S morphology"
+Reduced light damage (high noise)
+Registration using Levenberg Marqardt solver
+Resolution
+"SIM reconstruction, 3D visualizers or analysis tools"
+"SIM, SMLM and SPIM data analyses"
+SPT and smFRET data still require better solutions that allow multiple analysis options
+Segmentation
+Segmentation
+Segmentation - specifying thershold cutoffs with densely populated and sparsely populated images; Dealing with different image intensities 
+Segmentation and classification of close structures and organelles with complicated morphology
+Segmentation and object detection (instance aware segmentation).
+"Segmentation in 3D, subcellular analaysis"
+Segmentation in general
+"Segmentation of adjacent objects, interoperability of the tools."
+Segmentation of brightfield/phase/DIC images
+Segmentation of differently sized/shaped 3D objects
+"Segmentation of irregular/dense cells. 3D segmentation with open source tools.  Registration of large images. Dealing with artifacts (batch effects, uneven illumination, varying noise levels). Quantifying intensities in IF. "
+"Segmentation of materials microstructure components (grains, pores, etc.)"
+Segmentation on 3D + time data sets (more of a big data problem) and segmentation on samples with non-ideal S/N due to keeping specimen alive (being improved with image restoration/machine learning ect.)
+"Segmentation, exporting 3D mesh"
+"Segmentations of low-SNR data, single-particle tracking, 3D segmentations in general, working with anisotropic data"
+"Segmenting and describing cells in a 3D culture (+ time), especially those in developmental (rather than in vitro) models."
+"Segmenting multi-lobed nuclei, clear procedures for good-practice intensity measurements, open source options for three-dimensional viewing/segmenting"
+Selecting a single area of cell eg cell membrane without having to draw round it manually myself. 
+Single molecule tracking and analysis
+Skeletonisation
+"Splitting confluent cells, edge detection where parts of the membrane sit below threshold"
+Spot analysis
+Stitching and multiple image alignment
+"Study relationships between cells, tissues, organs"
+Super-resolution data based on standars.
+"The deluge of lattice light fluorescence microscopy data is coming!! We need open source flexible modular analysis software for 3D time lapse data in datasets that range from 1GB to 10+GB. Segment and track ER, mitochondria, vesicles, cell boundaries.... first assuming SNR is good, then with dimmer or fluctuating signals. 2, 3, or 4 color.  Jupyter notebooks made my cell biology lab unafraid of python, and 30% of us will add onto existing analysis projects.  "
+"Thresholding of noisy data, temporal analysis"
+Time lapse data for cell cycle measurements
+Tissue analysis
+Tissue analysis and co-localization
+Tissue analysis of Histologically stained tissue sections
+Tissue analysis. Cell tools often work but the pixel amounts are often a challenge since they arent FOVs
+Tissue and 3D analysis 
+"Tracing and analysing tubular structures, especially when they are complex, overlapping and changing in intensity"
+"Tracing movement over time, comparisons between regions, comparisons between images"
+"Tracking cell borders when overlapping, track endothelial tubes for in vitro angiogenesis"
+Tracking fluorescent intensity in moving cells over time.
+Tracking movement of proteins or cells over time and searching for the most optimal quantification method/algorithm
+Tracking of cell division using FUCCI. The current FIJI plugins are difficult to work with. 
+"Tracking structures (cells, organelles, vesicles,...)"
+"Tracking,Deep learning implementations, segmentation of atypical nuclei and irregular structures, Big data handling and analysis, "
+"Tracking/segmentation of objects/morphologies that are difficult for the computer to discern. I wish there was better accessibility to machine learning/DL-type segmentation that are user friendly enough for non-coders, and easily batched (like ZeroCostDL4Mic is a start!)"
+Training deep learning models
+"Two general challenges: (1) data volume - analyzing very large amounts of data, such as serial section EM data from large specimens at a sufficiently high resolution to identify small or closely spaced targets such as synaptic components; and (2) multiplexing, especially at the EM level - differentiating, locating, and representing data for more than two or three targets simultaneously. "
+"Unbiased high throughput quantitation of fluorescent foci from live cell imaging in yeast. If you are good at writing code, it is easier, but it would be nice to see properly defined open source protocols and tutorials so that an untrained person can follow along. Also, the best way to statistically quantify (especially) co-localization of fluorescent puncta. "
+Vesicle tracking
+"Video focus stacking - Spot, smudge removal"
+"Volume and area measurements, especially of non-uniformly shaped objects"
+"Volume rendering, automated tracking"
+"Whole slide histology image data - synchronizing viewing and analysis. The commercial software handles the large file sizes better than the open source software right now - developing an algorithm for analysis takes a lot of tweaking and visually checking the validity of the analysis on the whole slide image and this is very difficult, slow (and prone to freeze/crash) in open source software compared to commercial software. As a research pathologist working on large studies with many histology slides, I would like to be able to easily visually check accuracy of my algorithms and easily submit batch analysis of these files."
+Work with tiled images and images with very large xyz dimensions
+Writing custom macros
+Yes. I am struggled how to do batch segmentation automatically
+"actin filament segmentation, data analytics"
+all
+all - especially identifying cell boundaries
+all others
+analysis of low contrast samples
+"analysis of multichannel, 4D data"
+analyzing cells/structures in heterogeneous tissue
+"autofluorescence reduction, distinguishing between intracellular/surface/extracellular"
+"automated Sholl analysis, automated spine morphology and density analysis"
+"automated background subtraction, segmentation in low signal-to-noise"
+automated macros problems
+automatic morphological segmentation from fluorescent confocal 3D+time datasets
+automatted cell tracking over time
+"axon tracing, comet/organelle tracking, or a better and more streamlined kymography suite in FIJI"
+batch 3d object segmentation
+"branching description, neuronal segmentation"
+"bright field segmentation, tracking in 2D and 3D"
+bright-field analysis of large area tissue sections and segmentation of dense populations in 3D fluorescence
+"but in tissues with closely packed cells like hippocampus or immune tissues like spleen or lymph nodes the accuracy of nuclear segmentation goes down considerably. I don't do 3D imaging, but I suspect that the problems there with nuclear segmentation parallel the 2D case."
+calcium transients analysis
+cell and neuronal segmentation
+cell boundary identification in a cluster of irregularly shaped cells
+cell cytoplasm detection
+cell extraction and detection
+cell segmentation NOT based on nuclei
+"cell segmentation in 3D systems, particle tracking"
+cell segmentation in complex 3D cultures e.g. ES cells
+"cell segmentation, especially cells with processes (neurons, microglia, etc)"
+cell tracking from Brightfield
+channel registration
+classification of cells
+clustering of pointile data without hyper-parameters. converting from localizations to molecules
+"co localization of multiple markers, alignment of multiple rounds of imaging or multiple timepoints, identifying and tracking puncta over time"
+colocalization
+colocalization
+"colocalization methods, tiled and multiplexed large area object recognition"
+"colocalization, 3D segmentation"
+contrast/brightness/color normalization adaptive to whole datasets
+convoluted large scripts
+"cytoplasmic segmentation of cells in culture that are touching each other and are not round, tracking in dense fields"
+"deconvolution, semi-automatic segmentation"
+"edge detection in both 2D and 3D, image operation of large size or large field of view"
+fiber orientation analysis
+"filopodia, membrane protrusion, cytoskeletal dynamics"
+find borders in noisy images (2D+3D)
+finding blobs in 3D through a Z-stack that may be touching or overlapping with one another
+finding cell boundaries
+finding cytoplasm 
+finding hyphal legnth of fungi mycorhiozae
+"finding nuclear foci, finding area of fluorescence, quantifying fluorescence"
+finding nuclei
+"finding nuclei in 3D, segmentation in 3D"
+"finding nuclei, detecting boundaries between cells"
+"finding nuclei, intensity detection and mapping"
+"finding nuclei, tissue analysis, analysis of super-resolution data, etc. Complex 2D/3D spatial analysis"
+general analysis of tissue sections (problem of heterogeneity and very condensed information))
+glia quantification/segmentation 
+having software distinguish signal from small cellular processes from background
+"higher resolution fluorescent imaging, automated fluorescent-sample finding instead of manual selection"
+"histo-cytometry analysis, large 3D volume segmentation"
+identify cells in complex images for quantification
+identifying and re-identifying cellular structures over time
+identifying and tracking individual cells in culture
+identifying different labels/structures in fluor images or 3D stacks
+image and object-registration
+image registration and fusion of 3D data sets
+image segmentation
+intensity over time measurements
+"interactive analysis in 3D, epecially 3D + time"
+interactive visualization tools that provide a script to reproduce the visualization after the final processed data is saved
+just about everything
+large data sets
+"large image handling (whole slides or 3D), tracking"
+localizing organelles in relation to other subcellular structures- tracking cells in tissues in 4D
+machine learning/AI based segmentation. Faster and more universal tools would be great
+"masking and segmentation of membranes, small fast cells"
+"measurements of identified objects (ie micronuclei/ cell count, nucleolus area and volume/cell) "
+measuring protein localization/distribution of proteins that are dynamic (dramatically change localization in space/time)
+measuring scale
+mitochondrial segmentation in z from live cell confocal data (low S/N and poor z resolution)
+more automated ways of doing intensity measurements in masked areas; automated tracing of cell boundaries (currently hit or miss with this); also haven't had great luck with several angiogenesis measurement tools
+"morphological analysis and comparison, atlas"
+motion correction and particle picking for EM
+"multiplex analysis (up to 5 colors), reproducibility between different images"
+multiscale spot detection
+neuronal reconstruction 
+nuclei shape/structure
+"object segmentation, image registration"
+"open large dataset with fiji (more than 2Go of data), deconvolution, 3D segmentation, analysis big network (like filament tracer) with 50Go lightsheet image"
+"open source deconvolution algorithms, pot counting, nucleus-to-cytoplasm ratio"
+parameter explaination and choosing in fiji plug-ins
+pathology; cell membrane; complex cell types (e.g. cardiac)
+phenotype classification
+quantification of features nested within previously identified Features. Ie number of spots within a nucleus quantified on a per-nucleus basis.  
+quantifying cytoplasmic markers
+"quantifying number of cells with a given phenotype, especially with different signal intensities per cell (non-homogenous samples; single-molecule tracking (low-noise samples)"
+"quantitation of superresolution data, quantitation of 3D tissue data "
+quantitative analysis of super-resolution imaging data (once reconstruction is done - not just a pretty picture)
+reconstruction of large volumes easily. Quantitative analysis of the reconstruction
+registration of multi-channel fluorescent confocal movies when your tissue has the potential to move over time
+removing drift from super-res time laps
+robust cell body segmentation in fluorescence live cell imaging
+"segment cytoplasm, subcellualr compartments"
+segment nuclei in 3D
+segmentation
+segmentation
+segmentation
+segmentation and colocalization in time-lapse
+segmentation in 2D/3D
+"segmentation in low-SNR data, nonlinear denoising, semiautomated fluorescence segmentation"
+segmentation of cells
+"segmentation of dim signal, normalization of intensity over time, automated background subtraction"
+segmentation of individual cells
+segmentation of low SNR regions ( autofluorescence images)
+segmentation of noisy images in 3D
+segmentation of nuclei in multinucleated cells
+"segmentation of partially overlapping nuclei, object tracking"
+"segmentation of small and irregularily shaped objects, 3d segmentation, linking objects across timepoints"
+"segmentation of specific cell types with atypical shapes  such as neurons, open-source, easily accessible super resolution, EM segmentation "
+"segmentation of structures with complex morphology, working with very noisy images, spectral unmixing"
+"segmentation, especially 3D"
+"segmentation, finding ideal B/C settings"
+"segmenting 3D objects, object tracking, FLIM and FLIM-FRET measurements"
+segmenting brightfield images with sub regions (equally separated by 3 parts without physical boundaries within the cell)
+segmenting cell features in cells without fluorescent labels
+"segmenting in transmitted light, tissue analysis, cytoplasm detection"
+segmenting individual cells that collide with each other while moving
+segmenting macrophages 
+segmenting tissues either from histology or fluorescence
+separate cell compartments
+separating cells in tissue 
+"separation of densly packed objects (like epithelial cells). Diverse watershed options are ok, but beginners will always run into trouble in separating things. Separation in 3D is a non-trivial task for the normal scientist not experienced with some specific functions (e.g. from the 3D Suite in ImageJ)"
+"single cell isolation from brightfield/DIC images, colocalization analysis, timelapse analysis, small vesicles analyses. All for multiple cells."
+"spatial analysis, problem statements"
+super resolution
+super resolution STORM analysis
+"super-resolution (smlm), identification of cellular structures in noisy time-datadata"
+"super-resolution data, tissue fluorescence quantification"
+"super-resolution, yeast cell segmentation"
+"texture analysis, distance from nucleus "
+three dimensional segmentation of noisy data
+"time analysis of large volume data, segmentation of big data"
+"time-lapse, segmentation of filament-like structures"
+timelapse mitosis linkage and cell tracking
+tissue analysis
+tissue analysis
+tissue analysis
+"tissue analysis (particularly multiplex), cell detection perhaps with membrane stain in addition to nuclei (odd shaped / large cells are difficult), separation of cells in tissue where cells are closely packed"
+"tissue analysis, multiple intensity ROI measurements"
+"tissue analysis, super-resolution data"
+"tissue image segmentation, anything related to 3D analysis"
+"tracing movements, counting objects with weird forms, analysis of high content/throughput files"
+"tracking cells by brightfield, especially in feature-rich fields of view"
+tracking cells over time
+tracking complex objects in Z and T and dealing with uneven background (when multiple interfaces such as in microfluidic chips) 
+tracking of particles with low SNRs
+tracking particles over time when they are within a confined area and the moving particle may go and out of focus and/or intersect with another moving particle; tracing complex cell shapes like neuronal dendrites
+tracking puncta over timelapse in single cells
+"un-even images, vague images,low contrast images"
+using the filament tracing function takes a very long time and I've never gotten great results with it

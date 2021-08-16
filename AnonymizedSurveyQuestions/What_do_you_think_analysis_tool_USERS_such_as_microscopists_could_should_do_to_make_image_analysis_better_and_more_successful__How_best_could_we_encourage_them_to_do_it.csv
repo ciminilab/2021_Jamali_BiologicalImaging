@@ -1,0 +1,242 @@
+0
+"1) Focus on quantification and statistics. 2) Two-way communication- tell biologists how best to design experiments to get meaningful image data + what is reasonable to expect, and tell software designers + microscope manufacturers what, specifically, we need and the questions we are researching. "
+A reliable standard list of protocols (particularly for antibody staining) to ensure high quality image data with reduced noise
+Acquisition of basic knowledge about computer images
+Again multiple detailed  tutorials will make it seem less overwhelming for users who are not formally trained in computational biology and image processing.
+"Ahh.. Giving a tool to do something is not enough. Microscopists have to learn/taught the meaning of images, the math behind it, when the filter is applied what is going on behind the scene.  Without learning any of this throwing tools at a microscopists is a lost battle. "
+Always assess image analysis protocols on a diversity of samples to validate them
+"Always use a pilot. Often they come to the facility with dozens of images, all bad for the purpose to solve a particular question. E.g. use counterstaining just for facilitating the human eye."
+"As a user, I would love to know the answer to this!  I guess they could ask more questions?"
+"Attend courses about basics in image analysis , learn tools like Fiji or different commercial tools. We should provide the knowledge via courses and introductions."
+Be adventuresome (for the young folks still at the bench).  Encouragement from PIs
+Be aware of preparation quality
+"Be less afraid to reach out to tool developers for help. I think a lot of times if we don't understand the initial jargon or help page, we think it's futile to reach out for clarification or that it will be embarrassing. Also, could be good to ask for advice on analysis BEFORE collecting the data so that you can be sure you are setting up your experiments well! How to get them to do this? Maybe if the creators specifically make their tool pages approachable it will facilitate discussion on forums! "
+"Be more accurate, always try to learn new methods"
+Be more aware of the need to learn the tools of the trade early.
+Be willing to write scripts or simple programs. I don't know how to encourage them.
+Become more proficient at the analysis part or minimally not just pass the analysis “ball” to other cores or people and instead establish a true collaboration. Understanding the questions each user wants to answer and have a more streamlined interaction with analysis experts to better follow up projects will help microscopy core staff do a better job.
+Benchmark many software tools for the same task 
+Best practice imaging strategies that maximize the chance of success with data analysis software
+"Better awareness of naming schemes to make batching easier, better understanding of what manipulations change data, pre-planning of analysis pipeline prior to data acquisition."
+Better documentation of methods. Seek advice from experts.
+Better explanation of processes/reproducibility. Sharing pragmatic imaging pipelines.
+Better imaging contrast
+"Better infrastructure - places like microscopy cores are excellent but still there are few labs that are plugged in to the right resources. As a graduate student, it can be hard to know who to ask for what, especially when the expertise doesn't exist in your lab, and especially when best practices have not always been followed for lack of awareness."
+Better management of facilities at institutional level
+Better planning of experiments with analysis in mind.
+Better sample preparation.
+"Better trainning on Proper Sampling, many images are undersampled to such a degree that proper 3d analysis is impossible."
+"Better, clearer documentation of their analysis steps. Could be facilitated by easy tools to record analysis steps to enable reproducibility and transparency."
+"Bioimage analysis softwares are powerful tools, but users must understand what they are handling. So training users is crucial, and I think is are not enough offer to cover the demand (and demand is increasing). Tutorials are good for advanced users, newcomers need help to progress 'smoothly'. Otherwise, most of them will give up. Users must document their workflows and properly cite the tools they use. It is also important to properly report bugs within the tools and provide feedback on what they need to be improved."
+Cite the tools they use so that other may find them.
+"Clarify needs in a more systematic way, credit and document beter. "
+Clarify the needs and provide informative feedback.
+Clear and detailed explanation in research papers about the analysis they did.
+Collect better data. Have better understanding of how their input data affects analysis tool outcomes. Demonstrate/explain how good/bad data performs with analysis tools.
+Collect better data; show them what can be accomplished with well-sampled data; encourage analyzing early data so they know if it's good enough to answer their questions.
+"Collect data in an unbiased way, and fully document their acquisition and analysis. Core staff should encourage this, journal editors/reviewers should require it, and the developers of analysis tools could create user-friendly tools to facilitate it."
+Communicate more about needs/wishes. Developers often don't know what people need.
+Communicate their needs/challenges to the Creators
+Communicate with and be trained by experts on the analysis tools so that every new user doesn't have to reinvent the wheel.
+Consistency during  processing images 
+Define the problem and the output expectations clearly and invest the time and the effort to understand a particular image analysis tool
+"Develop independent problem solving skills. Learn to navigate the wealth of online resources.
+Many already do; I'm not trying to be critical, only constructive.
+Browse forums and become (passively or actively) interested in other people's issues, to become familiar with new problems, approaches, and solutions."
+Do a good experiment with all the necessary controls to set up the data well
+Don't know
+Educate them in microscopy and Python
+Education (theory and practice); this is where having (advertised) targeted sessions at a variety of meetings / virtual venues might be helpful.
+Emphasize quantitation practices with our clients
+"Encourage more forethought on the analysis challenge, ie encourage them to consider cell density when we know that overcrowding is going to make segmentation difficult to impossible. "
+"Encourage them to take courses! My own skills greatly improved from attending AQLM and I was already working in a lab that did imaging. I think it would be beneficial, even for experienced users, to familiarize themselves with new tools and software."
+Engage
+"Feedback to developers in consistent way, e.g. GitHub issues, forum.image.sc posts"
+"Feedback! Asking questions and posting answers on forums.  Can be encouraged by making it easy to do (and maybe anonymous).  Tool creators can make it clear they are willing to help (a forum they engage in, office hours etc)"
+"Focus the image analysis problem from start to finish (animal number, sectioning, section interval, staining, systematic random sampling, imaging, image analysis, statistics) as image analysis is just a small band on the whole spectrum"
+Force them to always post example images and the full process of analysis so they can be replicated by someone else.  Basically publish the secret ingredient so it's not a mystery where the numbers come from.
+GUI for deep learning. User freindly interfaces between different softwares
+"Generally users should be more knowledgeable about image analysis do's and dont's. This could be special sessions at meetings, or training requirements as part of PhD programs. As a community we should be better about calling out bad practices. For instance, if a paper is reviewed that uses red/green colors for fluorescence, or a non perceptual color map for intensities, reviewers should ask for it to be changed unless there is a good reason not to. Most users I've found are receptive to being told of better ways to analyze their data, there just needs to be a way of making the right connections."
+Get incorporated in the development. 
+Get involved into discussions on how tools can be improved; actively submit feature requests and bug reports.
+"Give feedback.  Many users start using a piece of software, get completely stuck and give up on it, and the developer is completely unaware (aside form a download flag on their server).  eg, ilastik and cellprofiler are quite good tools, but most users won't use them due to the problems of image input, understanding each step, and slowness of running when setting up the workflow."
+Hands-on tutorials (can be virtual) walking step by step through tasks of relevance to them will increase knowledge and decrease anxiety/difficulty using analysis tools. Image.sc is helpful but coming from the microscopy user side the language often quickly devolves into something uninterpretable by those without coding skills.
+"Have a basic knowledge of image formats and image analysis theory. Contribute to a well structured and indexed database of shared issues, solutions found, routines and subroutines (properly tagged so that they can be searched). GitHub is great but it is a bit of a labyrinth and not all code there is well annotated."
+Have an iterative approach to develop imaging and analysis side by side rather than leaving analysis till after
+"Have good understanding of WHY they applied a particular method in their analysis pipeline, it could be encouraged by thorough explanation in tutorials"
+Have lots of training. One way to encourage them is to have good tutorials.
+"Have some clear places that we can ""advertise"" open source materials"
+Having a better understanding of what an image (digital) actually is and some theory behind it.
+Having more SOP across different lab/facility in order to develop some more standard analysis workflow.
+Having standardized protocoles will help; when multiplexing crosstalk between channels is always an issue. Microscopy world really have to answer this problem (need good controls). Also accessibility to original data in papers.
+"Honestly the best a user can provide is feedback, and interesting functionality ideas. No clue how to incentivize."
+"I don't know enough. I'd love it if methods sections were a bit more in-detail, and if people made tutorials on youtube. "
+"I have interacted with >500 PhD level biologists trying to use out fluorescence microscopes (over a long time), over half were and no doubt still are computer illiterate (ex. barely add two numbers in Excel). so: good luck with this."
+I think USERS need to self-motivate learning software more and begin maybe attending more coding or programming workshops to educate themselves on the availability of softwares for image analysis.
+"I think generally Microscopists are becoming more aware that they need to be more quantitative.  But not many have experience with writing code themselves.  Workshops would help (online/in person), and engaging the cell biology community."
+I'm not sure
+"If users/PIs publishing in major scientific publications are mandated to send their image analysis ""lead or dev"" to post their methods in a public forum such as image.sc, it would be more successful. And we can probably reach a better data-analysis consensus that way instead of ""impossible to reproduce"" data analysis shown in certain scientific works."
+Immediately analyzing the acquired images in order to adapt the tissue processing and  imaging parameters accordingly. Have a list of what should be quantified.
+"Improve data quality, provide images for optimized protocol. "
+Improve section quality and avoid H&E staining.
+Improve the sharing of practical problems during acquisition/analysis of pictures on specific forum
+Interact more with image analysts or facility staff to seek idea on how to improve their imaging and image analysis. This can be encouraged by organising workshops or tutorials showing the application of image analysis on data relevant to their field or work
+Interactive feedback
+"Invest in training and get updated on modern image analysis practices. This can be encouraged with image analysis-focused publications, webinars and seminars."
+"Investigate alternative tools to find the best tool, rather than just using the one we already know and that works more or less OK"
+Involving them into the analysis.
+"It should be a priority to learn about and practise these things, not an afterthought ""when there is a spare moment in the lab"" "
+"Join more frequently in discussions, either in conferences, workshops or other social media"
+"Keep a detailed notebook of every step they took to optimize, troubleshoot, and analyze their images. "
+Keep clear records of steps
+"Last week we had a flashmob-style live workshop of imaging + analysis feedback within our lab through Zoom. One postdoc was on the microscope, and with each completed acquisition she kept downloading the finished movie to google drive. We, at home, would open the images and try to run our new python scripts on the data. there would be some error, like ""pims/nd2reader doesn't know if there are any z values"" so then the person on the microscope shows us the NIS elements acquisition panel, through the camera on her phone, and finds how to tweak the imaging settings to be compatible with pims. (check ""take z slices"" even if you're taking one z value.) This was really fun for everyone. And then we could tell her, hey look for this cool unexpected object in the cells when you set up the next movie in 5 mins!! I think it'll be really powerful to do live distributed remote imaging+analysis development for real time iterative feedback. The user learns ways to make their imaging more analysis-friendly. And then you end up with a jupyter notebook that kind of deals with your data on the fly. Ideally these would be like branches off of some evolving boilerplate github repository or something.  "
+"Learn a lot. Make it reproducible. Document your analysis.
+Encouragement should come in form of papers, learning from tutorials and supervisors (have no clue how to reach them, however)"
+Learn basic computer skills.
+Learn how microscopes generate data to understand quantitative microscopy.
+"Learn how to set up the microscope properly so the images produced are reflective of the sample. Especially set proper gains, and use contrast enhancement, so that it doesn't obscure aspects of the image. We should encourage/mandate publication of unaltered images and more detail on the adjustments that were made."
+"Learn how to take good, quantitative images. Learn to code  (biggest regret of graduate school...)"
+Learn more
+Learn to code and document tools that they can then make available to the wider community. There's a lot of wheel re-inventing going on.
+Listen more to experts. Take better images. 
+Make datasets more available with good metadata
+"Make different strategic decisions for the trade off between acquisition speed and image quality. if/when automated denoising and image reconstruction becomes widespread, users can shift that trade off to speed and worry less about quality. If a particular downstream analysis requires higher quality images (high signal/noise), users should anticipate that when they acquire. Users make this decision often by eye but their eyes are often times no longer doing the final analysis."
+Make it easier to test new tools and prototypes and to share results (it is not always easy to find a user who is willing to collaborate on a specific application and share the resulting data). 
+"Make publications require detailed methods (such like bioinformatics methods), make the data and models public on GitHub, so other researches can reproduce data easily."
+Make something to be not understand only by you but also by others.
+Make sure detailed procedures are published and available to the community and to developers. 
+"Make sure to carefully describe their image analysis in papers, share their code on Github"
+Many users come already with a image data set before they have thought about the analysis. My advice is always to create a small data set and try if the analysis will work and if the results extracted are the results needed to answer the question under investigation.
+Microscopists need to understand what measurements they want to make BEFORE acquiring their images. Users need to make sure they ask assistance from experienced users or facility managers - not sure how to encourage this.
+More discussion with tool developers about the challenges in image analysis faced by users. What specific topics/questions/problems are we trying to tackle?
+More explanation in methods section of scientific articles demonstrating workflow of image analyses
+More explanations on its best way to use.
+More feedback and questions on the forums to give developers an overview of where improvements could be made in  their software. Possibly a list of specific Tags on Image.SC that could be summarized in an automated fashion quarterly (automated email to the dev/team?) to see where most problems/questions arose.
+More precise information on how images are processed and analysed in publication methods. Published guidelines on ethical image processing and what needs to be stated in methods would help. 
+More training staff in facilities in the use of softwares
+More training. Users most of the time have very vague ideas of what they are doing
+"Need to be aware of best imaging practices. Need to make guides and tutorials that are more easily accessible, like not using jargon and burying them in theory. While theory is important and relevant to imaging specialists, everyone is using imaging techniques to generate and analysis data; these people don't necessarily have the background to find or understand what these best practices look like"
+Not much. They need to focus on the big questions in life.
+Not used
+"Obviously, sharing the feedback (potentially images as real-world examples) at the forum (or elsewhere) is a best way to contribute. To motivate users to share an ideas, I think faster implementation of desired features is needed (thus user can directly benefit from own idea in current project not only sometime in future)"
+Organize and share useful tools 
+"PROPRIETARY DATA FORMATS AND ANALYTIC TOOLS SHOULD BE LESS BLACK-BOXY (I'm looking at YOU Becker & Hyckl). If it is hard to upload data into MATLAB or even Bio-formats through FIJI, there is an issue."
+Perform hands-on sessions with facility staff
+Pick one file format that everybody uses. 
+Pick one file format that everybody uses. 
+Post questions on image.sc  and provide clear solutions they found in manuscripts 
+Post their needs or problems more often in a forum with specific tags 
+Present in research the specific set of operations performed on an image to derive data. 
+Producing images with metadata (as an external file or as internal metadata) specifying the conditions in which those images were produced
+Provide example images to image analysts and programmers to test and benchmark analysis solutions and tools. The http://www.cellimagelibrary.org/home is a good example for that. But it will be difficult to encourage people to do this extra piece of work. Teasing with potential solutions for their problems could work.
+"Provide feedback on the tools/plugins, which could be integrated directly via weblinks"
+Provide links for feedback within the software
+"Publish analysis all code in publicly available repositories for each publication (no citing previous papers, rehost the code if it is the same to facilitate reproducibility)."
+Publish detailed protocols/workflows of image analysis. Journals to encourage uploading protocols and scripts. 
+Publish in scientific journals
+Publish pipelines and settings for analysis as well to make it more reproducible and available for others with similar analysis needs. Encourage by making it an optional addition when uploading manuscripts.
+Putting out new methods on open source so that others can benefit from these newly developed techniques
+Read the documentation (if it exists!)
+Realize that image analysis is not playing with photoshop or kludging with Fiji but requires real expertise. Push editors/reviewers not to allow poor image analysis practices in papers.
+Report issues and needs for particular tools. But also successful application of tools by citing them. How ? Good question!   
+Require better interoperability between tools
+Rigor in peer review process in what is to be consider acceptable for publication. 
+"Rubbish in = rubbish out. Start with more emphasis on doing a good job with the imaging, rather than trying to use analysis tools to pull something out of the hat."
+Run internal short courses
+Seek help from image analysis experts
+"Share images, metadata and ground truth. Provide tools to do it. Demonstrate the benefits"
+"Share protocols and be aware of the solutions that already exist. I believe many work hours are ""lost"" due to users performing suboptimal tasks (i.e. manually counting/tracking cells in fluorescence microscopy) because they are not aware of the solutions available"
+Share their learning experience. Blog.
+Sharing detailed analysis workflow or code in methods or elsewhere always helps. 
+"Sharing even simple scripts (ImageJ macros, etc.) when papers are published"
+Sharing of data
+"Similar to above, ask IA questions in a general form rather than ""please help with counting γ-H2AX foci per cell of DAPI stained cells"" (or at least describe the problem without specific research area terminology)"
+"Since they deal with a vast knowledge of reserach topics, they should organise/document sessions to teach new students the pitfalls"
+"Sorry, I'm not sure."
+Spend more time learning what the image analysis software can do.
+Store/manage data properly. Metadata is critical - make some. 
+Supply imaging data for a global online library of sample data sets
+Take basic image analysis training - this should be offered at more  conferences or online sessions. Learn to code in the context of image analysis - this should come from their university/microscopy core offering a course
+Take the effort to learn the tools that exist for routine applications
+Taking part in education opportunities.
+Talk about image analysis 
+"Teach them how to efficiently look for information online, how to ask questions that are well formulated and supported by the images so developers have more time for writing code. Making sure that they know what they want to analyze and spend time optimizing the imaging to make the analysis as fruitful as possible.  "
+Teaching best practices in experimental design and imaging to facilitate an easier downstream analysis pipeline
+The challenge is that there are so many software platforms that each have a special or unique function. FIJI is most universal tool for our day-to-day needs and convenient (free) usage but not especially user friendly or wells-structured/consistent workflows.
+"There needs to be incentives for doing transparent and open source image & data analysis. In terms of authorships and papers. Or requirements from grant agencies. If a lot of work simply ends up as one sentence in a methods section, no one is talking about or finds interesting, why should they invest in having good standards ;) "
+They must understand what analysts need to make successful pipelines.
+They need to plan quantitative approaches before imaging ?!   
+Think about analysis before starting experiment.  Show them how much harder analysis is without using proper controls
+Think about how to optimize your imaging based on what analysis you want to be able to do.  Show examples of data sets that work well - but also want won't work well for a given tool
+Think about the analysis before you collect the tissues or do the experiment
+"Tough one. Comes down to proper training, not only of the specific software, but good science practices and formulating questions that move imaging fields forward...not motivated by competition."
+Training in the facilities. There are a lot of people who are left alone and don't know where and how to start
+"Training on ""real problems"" by talking and sharing information, time (and energy...) with people working on different topics."
+"USERS wold love to access advanced tools. The problem is that no amount of training will make it expedient for all experimentalists at all time to do their own image data management and analysis without the development of tools and practices to break the ""glass ceiling"" described above. Make tools that are usable and efficient and make them available will generate a positive loop, break the ""imaging mystique"", show experimentalists what is possible and encourage them to expect this kind of infrastructure from individual institutions and funders."
+"Ultimately, all scientist need to learn programming. Otherwise, there will always be a lot of effort being put into creating point-and-click solutions with limited possibilities. This needs to start on the undergraduate level, or earlier. "
+"Understand & learn the basis of image analysis, appropriate uses of images & how this analysis should be controlled. Webinars & tutorials would be encouraging & also training in undergrad & postgrad degrees."
+"Understand and play with how their imaging impacts downstream analysis, educate themselves on how softwares work. Best way to do this is with seminars or workshops that include intermittent microscopy and analysis."
+"Understand the limits of what can be done with any given dataset. Using available tools appropriately, efficiently."
+Upload data to be available for software developers. Adopt a more standardized way of saving and cataloguing image files and folders
+"Use project and data management systems, use data versioning, no hand naming files"
+Users can learn more about designing imaging experiments which lend themselves better to quantitative image analysis. Seek collaborations..etc . Image analysts could open more image analysis core facilities in every research center willing to host them.We could also have more people with a cell biology background with appropriate image analysis experience to act as a bridge between the Users and Developers. 
+"Users could talk to relevant facilities in their institute before getting into analysis. It's also the responsibility of the imaging/image analysis facilities, and the PI's to encourage users to be moderately up to date with the image analysis tools and techniques, forum, upcoming webinars, etc. and help in transferring the knowledge."
+"Users need to be more open about the imperfections in their data. Sharing of testbed datasets (like EMPIAR) should increase. Local groups can hold ""office hours"" where inexperienced users can bring data for coaching by experienced users."
+Users need to understand that providing feedback is good for the developers. Bugs won't be fixed if nobody reports them. Clear communication is key.
+Users often want a one-click answer that gives them a positive or negative result. This devalues knowledge and we need to be better at encouraging users to learn how and why different techniques are best applied to answer specific analysis questions. I cannot imagine how to achieve this with users who are not already inclined to do so.
+"Users should be aware about image quality, not all images can be analysed, and also know before starting an experiment how to best acquire the images that later will be analysed"
+Users should be encouraged to share their success stories on forums or social media such as Twitter. 
+Users should partner with or at least consult a local imaging facility or expert when analyzing images. This seems to occur widely for statistics; perhaps whatever encourages people to collaborate with biostatisticians (journal requirements; peer review) can be implemented for image analysis.
+"Users should sort out which type of analysis they want to perform (dig in to the literature to see how people analyze their similar dataset), and if they have a way to do it in a certain software, document every step/parameter used, and consults a specialist or asks in the forum for their opinion to improve their quantitating method. It is very important to know how to communicate with specialists or the creators to let them help researcher to solve the problem."
+Users should take time to study image analysis in order to understand its potential (and current pitfalls). Creators could simplifly mathematical concepts related to image analysis in order to reach a greater public.
+"Users tend to create solutions in a vacuum, either recreating the wheel or keeping a good and widely applicable idea confined to their experiment; maybe a public repository of solutions might help. Imaris has a repository of Imaris solutions, for example"
+"We need to emphasise the need to think about image capture from the point of view of a computer, and the delineation of pixels into binary states as either part of or not part of the object of interest. We can't allow people to capture images *then* think about how to analyse them. Ideally, we would also have people committed to doing the design of the statistical element of experiment beforehand as well. "
+Well...perhaps software guys could insert interactive balloons at each and every step so that users could flag problem steps in an analysis.  Perhaps that would lead to better workflow.
+Work directly with computational adept people
+"Write more thoroughly about their processes either in supplementary methods, or a separate forum (twitter? youtube workshop?) etc."
+Written protocol for standard operation and possible trouble shoot at the end.
+acquire good quality data :)
+"always save raw data, description of analysis workflow"
+ask & annoy the creators
+better idea at the start what to quantify - more interaction with imaga analysts before acquring tons of data -
+communicate results of how analysis tools worked? maybe core facilties can help organize?
+"consistent image acquisitions parameters, naming the files logically"
+consult with analysts before starting the experiment. Ideally provide sample images.
+continue to be involved in the field and learn new technologies and techniques
+"convince their organizations that image analysis is critical to their work, needs real expertise rather than amateurish kludges, and needs to funded accordingly"
+define standards for the community (which should be set by the sientists but demanded by e.g. the journals where we publish)
+everything depends on quality of the pictures
+excessive training in image analysis principles and ethics
+familiarize oneself with the software and tools 
+familiarize themselves with the theoretical limitations and capabilities of their tools
+feedback with examples of what works / doesn't
+idk
+image.sc is a good first stop for my needs with good advice but encouraging more successful analysts to share their pipelines/approaches to common problems would enhance this forum
+know details about the analysis
+"learn how to organize data, learn basic programming skills (writing a script to process CSV files, avoid Excel). Include programming in bio curriculum"
+learn theory
+more & better training - not just image analysis tools but also general principles (e.g. the scientific method...)
+"more notebook, but we need to organize to find server dedicated to data storage and VM"
+more transparent reporting of image analysis workflows
+"move toward open interchange formats, and better data sharing"
+no idea
+not sure
+not sure. 
+patticipation in forums
+plan what analysis they will do before they take the images
+"post questions/requests on forum.image.sc, respecting the rules, appreciating the  developers and respondents. The post need to describe the problem well enough ,though. "
+"promote image.sc, NEUBIAS, have a webste with workflow or video tutorial for users. I made some facebook and Instagram bioimage analysis courses for my university. "
+"provide developers feedback, explore new tools"
+"reach out to people that have the know-how through forum, sites, developers"
+regularly get updated about new open source tools
+share and publish with more detail the protocols for image analyses. Both for better reproducibility and to make analyses simpler to everyone
+show that it is not that difficult and supply step-by-step tutorials and introductions
+"simple language.  if you need to counts dots, say that.  I don't care that the dots are nuclei."
+somehow reward developers other than stuffing their achievements in the supplements of obscure biology papers.
+standardize data formats as much as possible
+standardize image acquisition approaches
+"take notes of needs and potential bugs in a software, direct collaboration ith software companies"
+think about analysis before acquisition and run pilot studies to design IA workflows.  Show them the difference between getting the bare minimum from bad images and how much better the data is from a wel thoughout experiment.
+"understand a bit more theory, take a basic coding course (one day intensive @ conference?), don't rely on users to find the best solution. forums like image.sc allow microscopists to point users in a direction even if they don't know the answer themselves."
+"understand how to optimize sample prep and digital image acquisition (just a gut-level understanding of GIGO would solve so many grad student problems!); address through workshops, tutorials, and ongoing efforts from core facility managers  "
+work with creators to help understand how to optimize experimental setups for image analysis - how does wet lab play nicely and best with software. 
